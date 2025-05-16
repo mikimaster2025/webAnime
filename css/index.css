@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+.navbar {
+    background-color: #a617d1;
+    overflow: hidden;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: #e9dcdc;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background-color:#7c05a0;
+}
+.content {
+    padding: 20px;
+}
+
+.contenido-principal{
+    background-color: rgb(188, 235, 128);
+}
+
+
+/*Estilos de la pagina no encontrada*/
+
+    .body-not-found {
+      background-color: #f8f9fa;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+
+    .h1-not-found {
+      font-size: 100px;
+      color: #dc3545;
+      margin: 0;
+    }
+    h2 {
+      font-size: 30px;
+      color: #333;
+    }
+    p {
+      font-size: 18px;
+      color: #666;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+
+
+    /*Imagen*/
+
+    .imagen--test{
+      background-color: cadetblue;
+    }
+
+    .boton--test{
+      background-color: #4b0c86;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+     .boton--test:hover{
+      background-color: #8020da;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
